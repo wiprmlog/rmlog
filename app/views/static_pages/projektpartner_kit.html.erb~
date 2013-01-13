@@ -18,8 +18,11 @@
 <BR>
 <%= link_to image_tag("l1.jpg", alt: "1")%>
 <BR>
+<BR>
 <%= link_to image_tag("l2.jpg", alt: "2")%>
-
+<BR>
+<BR>
+<%= link_to image_tag("l3.jpg", alt: "3")%>
     </div>
     
     
