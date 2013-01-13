@@ -1,0 +1,19 @@
+<% provide(:title, 'Projektpartner') %>
+
+<% provide(:title, 'Impressum') %>
+<div class="center hero-unit">
+    <div class="navbar">
+    <div class="navbar-inner">
+        <a class="brand" href="projektpartner_wip">WIP</a>
+    <a class="brand" href="projektpartner_4flow_AG">4flow_AG</a>
+    <a class="brand" href="projektpartner_kit">KIT</a>
+    <a class="brand" href="projektpartner_kuehne_nagel">Kühne + Nagel</a>
+    <a class="brand" href="/static_pages/projektpartner_unterauftragnehmer">Unterauftragnehmer</a>
+    <a class="brand" href="projektpartner_assoziierte_partner">Assoziierte Partner</a>
+    <ul class="nav">
+    </ul>
+    </div>
+    </div>
+    </div>
+    
+

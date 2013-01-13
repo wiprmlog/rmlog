@@ -1,0 +1,73 @@
+<% provide(:title, 'Projektpartner | Kühne und Nagel') %>
+
+    <div class="container-fluid">
+    <div class="row-fluid">
+    <div class="span2">
+    
+   
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<%= link_to image_tag("l1.jpg", alt: "1")%>
+<BR>
+<%= link_to image_tag("l2.jpg", alt: "2")%>
+
+    </div>
+    
+    
+    <div class="span10">
+
+
+<div class="center hero-unit">
+<BR>
+<BR>
+<h2>Projektpartner >> Kühne + Nagel</h2>
+
+<BR>
+<BR>
+
+<p>Kühne + Nagel (KN) ist eines der führenden internationalen Logistikunternehmen. Zusammen mit qualifizierten Partnerunternehmen knüpft KN in über 100 Ländern moderne weltumspannende Logistikketten auf allen Verkehrsträgern:</p>
+<BR>
+<ul>
+<li>In der Seefracht ist KN weltweit der führende Spediteur. Neben Containerverkehren werden auch spezielle Teilmärkte  (Kühltransporte, Forstprodukte, Hilfsgüterlogistik) bedient.</li></ul>
+
+<ul><li>KN ist einer der drei weltweit größten Luftfrachtspediteure. Neben zeitdefinierten Transportleistungen werden auch industriespezifische Lösungen (Aerospace Logistics, Marine Logistics) betrieben. </li></ul>
+
+<ul><li>Im Bereich der Landverkehre ist KN mit rd. 7.000 Mitarbeitern in 45 Ländern einer der zehn größten Landverkehrsspediteure in Europa. Außer Straßentransporten wird in 15 Ländern ein Netzwerk für Bahnverkehre betrieben.</li></ul>
+
+<ul><li>In rund 500 Standorten in 65 Ländern bewirtschaftet  KN über 7 Mio. Quadratmeter Lagerfläche für den Geschäftsbereich Logistik. Als Schwerpunkte für kunden- und industriespezifische Logistik sind die Automobilbranche, Luftfahrtindustrie, Computerindustrie und hochertige Markenartikel und Konsumgüter zu nennen. Zu diesem Geschäftsbereich gehört auch die Tätigkeit als Lead Logistics Provider, d.h. die reine Prozessteuerung globaler Lieferketten ohne Einsatz eigener Kapazitäten oder Netzwerke. </li></ul>
+<BR>
+<p>Mit rund 54.700 Mitarbeitern erwirtschaftete KN in 2009 einen Umsatz von rd.12.100 Mio. Euro, das Unternehmen ist profitabel.
+Das Sicherheitsmanagement ist regional/national unterschiedlich organisiert und strukturiert. In Zentraleuropa ist Sicherheit im Key Account Management angesiedelt, um Kundenanforderung und speditionelle Möglichkeiten möglichst verlustarm miteinander zu vereinen.</p>
+
+<BR>
+
+<strong>Ansprechpartner: </strong>
+
+<BR>
+<ul>
+<li>Jochen Rothert <BR>
+(Jochen.Rothert@Kuehne-Nagel.com)</li></ul>
+<ul>
+<li>
+Markus Orzinski <BR>
+(Markus.Orzinski@Kuehne-Nagel.com)</li></ul>
+
+      </div>
+    </div>
+    </div>
+    </div>
+      </div>
+
+
+
+
+
+

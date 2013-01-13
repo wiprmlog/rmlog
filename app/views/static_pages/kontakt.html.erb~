@@ -1,0 +1,69 @@
+<% provide(:title, 'Kontakt') %>
+
+
+
+    <div class="container-fluid">
+    <div class="row-fluid">
+    <div class="span2">
+    
+   
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<%= link_to image_tag("l1.jpg", alt: "1")%>
+<BR>
+<%= link_to image_tag("l2.jpg", alt: "2")%>
+
+    </div>
+    
+    
+    <div class="span10">
+
+
+<div class="center hero-unit">
+  
+
+      </div>
+    </div>
+    </div>
+    </div>
+      </div>
+
+
+
+
+
+
+<div class="center hero-unit">
+
+<h2>Kontakt</h2>
+
+<strong>Verbundkoordinator:</strong></br>
+<address>
+TU Berlin<br>
+Fachgebiet WIP, <br>
+Sekr. H 33<br>
+Straße des 17. Juni 135<br>
+10623 Berlin<br>
+Internet: www.wip.tu-berlin.de<br>
+</address>
+
+<strong>Ansprechpartner:</strong></br>
+
+<address>
+Prof. Dr. Thorsten Beckers <br>
+tb@wip.tu-berlin.de, <br>
+Tel. 030-314 23243, <br>
+0163-8479465<br>
+</address>
+
+<p>Die Ansprechpartner der einzelnen Projektpartner finden Sie unter “Projektpartner”.</p>
+
+</div>

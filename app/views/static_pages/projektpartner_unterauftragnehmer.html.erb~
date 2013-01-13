@@ -1,0 +1,56 @@
+<% provide(:title, 'Projektpartner | Unterauftragnehmer') %>
+
+    <div class="container-fluid">
+    <div class="row-fluid">
+    <div class="span2">
+    
+   
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<%= link_to image_tag("l1.jpg", alt: "1")%>
+<BR>
+<%= link_to image_tag("l2.jpg", alt: "2")%>
+
+    </div>
+    
+    
+    <div class="span10">
+
+
+<div class="center hero-unit">
+  <BR>
+<BR>
+<h2>Projektpartner >> Unterauftragnehmer</h2>
+<BR>
+<BR>
+
+<ul>
+<li>Hamburg Port Consulting (HPC)</li>
+</ul>
+<ul>
+<li>Prof. Dr. Christian Butz (Professor für Logistik an der Beuth Hochschule für Technik Berlin)</li></ul>
+
+<ul><li>Prof. Dr. Dr. Giacomo Corneo (Universitätsprofessor für öffentliche Finanzen am Fachbereich Wirtschaftswissenschaft der FU Berlin) </li></ul>
+<ul>
+<li>Prof. Dr. Georg Hermes (Professor für öffentliches Recht am Fachbereich Rechtswissenschaft der Universität Frankfurt/M.)</li></ul>
+
+
+      </div>
+    </div>
+    </div>
+    </div>
+      </div>
+
+
+
+
+
+

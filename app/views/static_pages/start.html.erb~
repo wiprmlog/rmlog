@@ -1,0 +1,97 @@
+    <div class="container-fluid">
+    <div class="row-fluid">
+    <div class="span2">
+    
+   
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<%= link_to image_tag("l1.jpg", alt: "1")%>
+<BR>
+<%= link_to image_tag("l2.jpg", alt: "2")%>
+
+    </div>
+    
+    
+    <div class="span10">
+
+
+<div class="center hero-unit">
+    <BR>
+<BR>
+  <h2>Kurzvorstellung des Projektes RM-LOG</h2>
+<BR>
+<BR>
+    
+  <p>
+Die Versorgung mit Waren und Gütern sowie deren sicherer Transport und Umschlag sind für Gesellschaft und Wirtschaft von höchster Bedeutung. Sowohl Bevölkerung als auch Industrie sind auf kontinuierliche und zuverlässige Warenströme angewiesen, die sicherstellen, dass zum einen lebensnotwendige Waren und Güter beim Verbraucher rechtzeitig ankommen und zum anderen Rohstoffe, Halbfertigwaren und Investitionsgüter für die industrielle Produktion zur Verfügung stehen. Deutschland als Exportnation und Logistikstandort im Zentrum Europas ist in besonderem Maße auf sichere Warenketten und eine verlässliche Infrastruktur angewiesen.
+In dem Verbundprojekt RM-LOG werden Risikomanagementstrategien zur Sicherung von Warenketten im Hinblick auf potentielle Katastrophenereignisse (z.B. Naturkatastrophen) unter Berücksichtigung der Auswirkung dieser Katastrophen auf die Verkehrsinfrastruktur sowie Logistiknetzwerke untersucht. Ziel ist es, Strategien zum Management großer Risiken aus Sicht von (Logistik-, Produktions- und Handels-)Unternehmen und Infrastrukturbetreibern sowie der öffentlichen Hand zu erarbeiten, die eine effiziente Vorsorge im Hinblick auf Katastrophenereignisse gewährleisten.
+</p>
+
+
+  <strong>Projektpartner</strong>
+  
+    <strong>Projektpartner</strong>
+  
+  
+<ul>
+<li>
+TU Berlin, Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) 
+</li>
+<li>
+Karlsruher Institut für Technologie (KIT), Institut für Wirtschaftspolitik und Wirtschaftsforschung (IWW), Fachbereich Netzwerkökonomie
+4flow AG</li>
+<li>
+Kühne & Nagel AG & Co. KG,
+Unterauftragnehmer Hamburg Port Consulting GmbH (HPC), Prof. Dr. Christian Butz, Prof. Dr. Dr. Giacomo Corneo, Prof. Dr. Georg Hermes </li>
+</ul>
+<strong>Assoziierte Partner:</strong> 
+<ul>
+<li>
+Bundesministerium für Verkehr, Bau und Stadtentwicklung (BMVBS), Referat UI 20, Hamburger Hafen und Logistik AG (HHLA), Hamburg Port Authority AöR (HPA) 
+</li>
+</ul>
+
+<strong>Mittelgeber</strong>
+
+<ul>
+<li>
+Bundesministerium für Bildung und Forschung (BMBF)
+</li>
+</ul>
+<strong>Projekttr&auml;ger</strong>
+
+<ul>
+<li>
+	VDI Technologiezentrum GmbH
+	
+	</li>
+</ul>
+<strong>Laufzeit</strong>
+09/2010 - 08/2013
+</p>
+
+
+      </div>
+    </div>
+    </div>
+    </div>
+      </div>
+
+
+
+
+
+
+
+
+
+
+

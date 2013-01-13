@@ -1,0 +1,95 @@
+
+
+/*@import "own_bootstrap.css.scss";*/
+
+@import "own.css.scss";
+
+
+/* typography */
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 2;
+}
+
+h1 {
+  font-size: 3em;
+  letter-spacing: -2px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.7em;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+
+}
+
+p {
+  font-size: 1.1em;
+  line-height: 1.7em;
+}
+#logo {
+  float: left;
+  margin-right: 10px;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  padding-top: 9px;
+  font-weight: bold;
+  line-height: 1;
+}
+
+#logo:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* footer */
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #999;
+}
+
+footer a {
+  color: #555;
+}  
+
+footer a:hover { 
+  color: #222;
+}
+
+footer small {
+  float: left;
+}
+
+footer ul {
+  float: right;
+  list-style: none;
+}
+
+
+footer ul li {
+  float: left;
+  margin-left: 10px;
+}
+
+.navbar-inner {
+  background-color: #000; /* background color will be black for all browsers */
+  background-image: none;
+  background-repeat: no-repeat;
+  filter: none;
+}
+
+
+
+</style><style>td, a, body, table, body, td, li, p, div, li, h1, h2, p, br, .text, textarea, input, .blacktext12, .btext, .lightbluetext8, a:link, a:active, a:hover, a:visited,.whitetext12, .orangetext15,.redtext, .redbtext {text-transform:lowercase;font-family:ar… text-decoration:none;}.friendsComments .orangetext15 {padding-left:9px;}a.navbar:link, a.navbar:active, a.navbar:visited {text-transform:lowercase; font-family:impact;font-size:9px;color:0… {text-transform:lowercase; font-family:arial;font-size:11px
+
+font-family:arial;font-size:11px
+font-family:arial;font-size:5px

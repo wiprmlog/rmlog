@@ -1,0 +1,76 @@
+<% provide(:title, 'Projektpartner WIP') %>
+
+    <div class="container-fluid">
+    <div class="row-fluid">
+    <div class="span2">
+    
+   
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<%= link_to image_tag("l1.jpg", alt: "1")%>
+<BR>
+<BR>
+<%= link_to image_tag("l2.jpg", alt: "2")%>
+<BR>
+<BR>
+<%= link_to image_tag("l6.jpg", alt: "6")%>
+    </div>
+    
+    
+    <div class="span10">
+
+
+<div class="center hero-unit">
+  <BR>
+<BR>
+<h2>Projektpartner >> TU Berlin, Fachgebiet WIP</h2>
+<BR>
+<BR>
+
+<p>Das Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) der TU Berlin beschäftigt sich in Forschung und Lehre mit der ökonomischen Analyse der Organisation, Regulierung, Finanzierung und Planung von Infrastrukturen, mit dem Wettbewerbsverhalten von Unternehmen, die Infrastrukturen nutzen, sowie mit der effizienten Integration von Umweltschutzgesichtspunkten in die Infrastrukturpolitik. Im Vordergrund stehen die Infrastruktursektoren Verkehr, Energie, Telekommunikation und Wasser sowie die Abfall- und Entsorgungswirtschaft. 
+In den Analysen wird insbesondere auf die Erkenntnisse und Methoden der Institutionen- und Industrieökonomik sowie der Wohlfahrts- und Umweltökonomik zurückgegriffen. Die Berücksichtigung der sich wandelnden technischen und rechtlichen Rahmenbedingungen ist unverzichtbarer Bestandteil wirtschaftspolitischer Forschung. Die Forschungstätigkeit des WIP ist daher durch häufige interdisziplinäre Kooperationen mit ingenieurwissenschaftlichen Experten und mit Rechtswissenschaftlern gekennzeichnet.
+Prof. Dr. Thorsten Beckers leitet am Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) die Arbeitsgruppe Infrastrukturökonomie und -management, deren Forschungsschwerpunkt auf verkehrsökonomischen Themen liegt.
+<BR>
+<BR>
+<strong>Ansprechpartner: </strong>
+<ul>
+<li>
+
+Prof. Dr. Thorsten Beckers <BR>
+(tb@wip.tu-berlin.de, <BR>
+Tel. 030-314 23243, 0163-8479465)
+
+</li>
+</ul>
+
+  <ul>
+<li>Florian Gizzi<BR> 
+(fg@wip.tu-berlin.de,<BR>
+ Tel. 030-314 25876) </li></ul>
+
+<ul>
+<li>Klaus Jäkel<BR> 
+(kj@wip.tu-berlin.de)</li></ul>
+
+<ul><li>Martin Winter <BR>
+(mw@wip.tu-berlin.de)</li></ul>
+
+      </div>
+    </div>
+    </div>
+    </div>
+      </div>
+
+
+
+
+
+
