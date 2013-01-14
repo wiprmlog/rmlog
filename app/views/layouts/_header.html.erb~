@@ -4,10 +4,10 @@
       <%= link_to "Home", root_path, id: "logo" %>
       <nav>
         <ul class="nav pull-right">
-          <li><%= link_to "Projektbeschreibung",    static_pages_projektziele_path %></li>
-              <li><%= link_to "Projektziele", '#' %></li>
-              <li><%= link_to "Projektpartner", '#' %></li>
-              <li><%= link_to "Dokumente", '#'%></li>
+          <li><%= link_to "Projektbeschreibung",    static_pages_projektbeschreibung_path %></li>
+              <li><%= link_to "Projektziele", static_pages_projektziele_path %></li>
+              <li><%= link_to "Projektpartner", static_pages_projektpartner_path %></li>
+              <li><%= link_to "Dokumente", static_pages_dokumente_path%></li>
         </ul>
       </nav>
     </div>

@@ -2,7 +2,7 @@
 
 /*@import "own_bootstrap.css.scss";*/
 
-@import "own.css.scss";
+/*@import "own.css.scss";*/
 
 
 /* typography */
@@ -57,13 +57,11 @@ footer {
   color: #999;
 }
 
-footer a {
+footer{
   color: #555;
 }  
 
-footer a:hover { 
-  color: #222;
-}
+
 
 footer small {
   float: left;
@@ -80,16 +78,40 @@ footer ul li {
   margin-left: 10px;
 }
 
-.navbar-inner {
-  background-color: #000; /* background color will be black for all browsers */
-  background-image: none;
-  background-repeat: no-repeat;
-  filter: none;
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 60px;
+}
+
+body {
+    margin:10px;
+    
+}
+
+section {
+  overflow: auto;
 }
 
 
+p {
+  font-size: 0.9em;
+  line-height: 1.7em;
+}
 
-</style><style>td, a, body, table, body, td, li, p, div, li, h1, h2, p, br, .text, textarea, input, .blacktext12, .btext, .lightbluetext8, a:link, a:active, a:hover, a:visited,.whitetext12, .orangetext15,.redtext, .redbtext {text-transform:lowercase;font-family:ar… text-decoration:none;}.friendsComments .orangetext15 {padding-left:9px;}a.navbar:link, a.navbar:active, a.navbar:visited {text-transform:lowercase; font-family:impact;font-size:9px;color:0… {text-transform:lowercase; font-family:arial;font-size:11px
+.navbar-inner {
+  background: #20317F !important; 
+  border: 0 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
 
-font-family:arial;font-size:11px
-font-family:arial;font-size:5px
+.navbar-inverse .nav .active > a {
+  background: 0 !important; 
+  color: #333 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
+

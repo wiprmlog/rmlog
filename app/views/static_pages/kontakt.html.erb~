@@ -17,9 +17,10 @@
 <BR>
 <BR>
 <BR>
-<%= link_to image_tag("l1.jpg", alt: "1")%>
-<BR>
 <%= link_to image_tag("l2.jpg", alt: "2")%>
+<BR>
+<BR>
+<%= link_to image_tag("l1.jpg", alt: "1")%>
 
     </div>
     
@@ -28,7 +29,12 @@
 
 
 
-
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
 
 <div class="center hero-unit">
 
