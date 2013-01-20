@@ -11,11 +11,7 @@
 <BR>
 <BR>
 <BR>
-<BR>
-<BR>
-<BR>
-<BR>
-<%= link_to image_tag("l2.jpg", alt: "2")%>
+<%= link_to image_tag("l2.jpg",  alt: "2")%>
 <BR>
 <BR>
 <%= link_to image_tag("l1.jpg", alt: "1")%>
@@ -34,16 +30,28 @@
 <BR>
 <BR>
 <div class="center hero-unit">
-  <BR>
-<BR>
-<h2>Projektpartner >> TU Berlin, Fachgebiet WIP</h2>
-<BR>
+
+    <ul class="nav nav-pills">
+    <li class="active">
+    <a href="projektpartner_wip">TU Berlin</a>
+    </li>
+    <li class="active">
+    <a href="projektpartner_4flow_AG">4flow</a></li>
+    <li class="active"><a href="projektpartner_kit">KIT</a></li>
+    <li class="active"><a href="projektpartner_kuehne_nagel">Kühne + Nagel</a></li>
+    <li class="active"><a href="/static_pages/projektpartner_unterauftragnehmer">Unterauftragnehmer</a></li>
+    <li class="active"><a href="projektpartner_assoziierte_partner">Assoziierte Partner</a></li></ul>
 <BR>
 
-<p>Das Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) der TU Berlin beschäftigt sich in Forschung und Lehre mit der ökonomischen Analyse der Organisation, Regulierung, Finanzierung und Planung von Infrastrukturen, mit dem Wettbewerbsverhalten von Unternehmen, die Infrastrukturen nutzen, sowie mit der effizienten Integration von Umweltschutzgesichtspunkten in die Infrastrukturpolitik. Im Vordergrund stehen die Infrastruktursektoren Verkehr, Energie, Telekommunikation und Wasser sowie die Abfall- und Entsorgungswirtschaft. 
-In den Analysen wird insbesondere auf die Erkenntnisse und Methoden der Institutionen- und Industrieökonomik sowie der Wohlfahrts- und Umweltökonomik zurückgegriffen. Die Berücksichtigung der sich wandelnden technischen und rechtlichen Rahmenbedingungen ist unverzichtbarer Bestandteil wirtschaftspolitischer Forschung. Die Forschungstätigkeit des WIP ist daher durch häufige interdisziplinäre Kooperationen mit ingenieurwissenschaftlichen Experten und mit Rechtswissenschaftlern gekennzeichnet.
-Prof. Dr. Thorsten Beckers leitet am Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) die Arbeitsgruppe Infrastrukturökonomie und -management, deren Forschungsschwerpunkt auf verkehrsökonomischen Themen liegt.
+<h2>Projektpartner >> TU Berlin, Fachgebiet WIP</h2>
 <BR>
+
+
+<p>
+Das Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) der TU Berlin beschäftigt sich in Forschung und Lehre mit der ökonomischen Analyse der Organisation, Regulierung, Finanzierung und Planung von Infrastrukturen, mit dem Wettbewerbsverhalten von Unternehmen, die Infrastrukturen nutzen, sowie mit der effizienten Integration von Umweltschutzgesichtspunkten in die Infrastrukturpolitik. Im Vordergrund stehen die Infrastruktursektoren Verkehr, Energie, Telekommunikation und Wasser sowie die Abfall- und Entsorgungswirtschaft. 
+In den Analysen wird insbesondere auf die Erkenntnisse und Methoden der Institutionen- und Industrieökonomik sowie der Wohlfahrts- und Umweltökonomik zurückgegriffen. Die Berücksichtigung der sich wandelnden technischen und rechtlichen Rahmenbedingungen ist unverzichtbarer Bestandteil wirtschaftspolitischer Forschung. Die Forschungstätigkeit des WIP ist daher durch häufige interdisziplinäre Kooperationen mit ingenieurwissenschaftlichen Experten und mit Rechtswissenschaftlern gekennzeichnet.
+Prof. Dr. Thorsten Beckers leitet am Fachgebiet Wirtschafts- und Infrastrukturpolitik (WIP) die Arbeitsgruppe Infrastrukturökonomie und -management, deren Forschungsschwerpunkt auf verkehrsökonomischen Themen liegt.</p>
+
 <BR>
 <strong>Ansprechpartner: </strong>
 <ul>

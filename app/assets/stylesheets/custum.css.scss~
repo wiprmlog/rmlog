@@ -33,13 +33,12 @@ p {
 }
 #logo {
   float: left;
-  margin-right: 10px;
-  font-size: 1.7em;
+  margin-left: 50px;
+  font-size: 1.4em;
   color: #fff;
-  text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
-  font-weight: bold;
+  font-weight: normal;
   line-height: 1;
 }
 
@@ -51,7 +50,7 @@ p {
 /* footer */
 
 footer {
-  margin-top: 45px;
+  margin-top: 50px;
   padding-top: 5px;
   border-top: 1px solid #eaeaea;
   color: #999;
@@ -74,8 +73,14 @@ footer ul {
 
 
 footer ul li {
-  float: left;
+  float: right;
   margin-left: 10px;
+  margin-right: 100px;
+}
+
+header ul li{
+
+ font-size: 13px;
 }
 
 html {
@@ -97,9 +102,23 @@ section {
 
 
 p {
-  font-size: 0.9em;
+  font-size: 0.75em;
   line-height: 1.7em;
 }
+
+
+ul{
+ font-size: 0.75em;
+  line-height: 1.7em;
+
+}
+
+address{
+ font-size: 0.75em;
+  line-height: 1.7em;
+}
+
+
 
 .navbar-inner {
   background: #20317F !important; 
