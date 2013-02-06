@@ -40,7 +40,7 @@
 <BR>
 
 <p>Liedtke, G. / Friedrich H. / Babani J. (2011): Identifikation von Tourtypen in Fahrzeugtagebüchern, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.
-Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "pdf-link", "/downloads/liedtke_friedrich_2012-generation_of_logistics_networks_in_freight_transportation.pdf/#{@bl_file}" %>)</p>
+Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "pdf-link", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
 
 <BR>
 
@@ -48,7 +48,8 @@ Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development:
 
 <BR>
 
-<p>Liedtke, G. / Friedrich, H. (2012): Generation of logistics networks in freight transportation models. In: Transportation, p.1-17, Springer 2012, (<%=link_to "pdf-link", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
+<p>Liedtke, G. / Friedrich, H. (2012): Generation of logistics networks in freight transportation models. In: Transportation, p.1-17, Springer 2012, (<%=link_to "pdf-link", "/downloads/liedtke_friedrich_2012-generation_of_logistics_networks_in_freight_transportation.pdf/#{@bl_file}" %>)</p>
+
 
 <BR>
 
