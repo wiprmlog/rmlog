@@ -1,4 +1,4 @@
-<% provide(:title, 'Dokumente') %>
+<% provide(:title, 'Veröffentlichungen') %>
 
 
     <div class="container-fluid">
@@ -12,7 +12,7 @@
 <BR>
 <BR>
 <BR>
-<%= link_to image_tag("l34.jpg",  alt: "2")%>
+<%= link_to image_tag("l2.jpg",  alt: "2")%>
 <BR>
 <BR>
 <%= link_to image_tag("l1.jpg", alt: "1")%>
@@ -29,15 +29,56 @@
 <BR>
 
 <div class="center hero-unit">
-<BR>
-<BR>
-<h2>Dokumente</h2>
+
+<h2>Veröffentlichungen</h2>
 
 <BR>
+
+
+<p>Schröder, S. / Zilske, M. / Liedtke, G. / Nagel, K. (2011): Der Transport-Service-Provider in einem Multiagentenmodell, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.</p>
+
 <BR>
-<div align="center">
-<h4>Diese Seite befindet sich im Aufbau</h4>
+
+<p>Liedtke, G. / Friedrich H. / Babani J. (2011): Identifikation von Tourtypen in Fahrzeugtagebüchern, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.
+Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "pdf-link", "/downloads/liedtke_friedrich_2012-generation_of_logistics_networks_in_freight_transportation.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Scholz, A.B. / Mandel, B. / Schaffer, A. (2011): Implications of short-term Cargo Collapses on European Airports, Der öffentliche Sektor - the public sector, 37, 3/4, pp 39-51.</p>
+
+<BR>
+
+<p>Liedtke, G. / Friedrich, H. (2012): Generation of logistics networks in freight transportation models. In: Transportation, p.1-17, Springer 2012, (<%=link_to "pdf-link", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Scholz, A.B. / Zhang, L. / Gizzi, F. / Jäkel, K. (2012): Risk management in the European air freight system - An institutional economic approach, Aviation Transport Research Society World Conference, July 2012, Tainan (Taiwan), (<%=link_to "pdf-link", "/downloads/scholz_zhang_gizzi_jaekel_2012-risk_management_in_the_european_air freight_system.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+
+<p>Beckers, T. / Gizzi, F. / Jäkel, K. (2012): Ein Untersuchungsansatz für Systemgüter – Einordnung, Darstellung, Vorgehen bei der Anwendung, WIP-Working Paper 2012-01, (<%=link_to "pdf-link", "/downloads/beckers_gizzi_jaekel_2012-untersuchungsansatz_systemgueter.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Brock, M. / Zhang L. / Hayden, C. / Matteis T. / Gross, W. (2012): A Comparison of Regular and Disrupted Operations for Route Planning in Freight Transportation, Proc. Int. Disaster and Risk Conference, Davos, 2012, pp. 94-98., <a href="https://www.conftool.pro/idrc2012/index.php?page=browseSessions&form_session=55</p">link</a>
+
+<BR>
+
+<p>Bötel, M. / Groß, W. / Brock, M. (2012): A scenario-oriented framework for enhanced identification, modeling and assessment of supply network disruption risks,” in Managing the Future Supply Chain. Current concepts and solutions for reliability and robustness. 1st ed. W. Kersten, Ed. Lohmar: Eul, 2012, pp. 3–22.</p>
+
+<BR>
+
+<p>Zhang, L. / Schröder, S. / Brock, M. / Hayden, C. (2012): Assessment of the interaction between congestion and carriers’ route decision: a case study, Proc. 5th Int. Symposium on Transportation Network Reliability, Hong Kong, 2012, (<%=link_to "pdf-link", "/downloads/zhang_schroeder_brock_hayden_2012-assessment_of_the_interaction_between_congestion_and_carriers_route_decision.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Bötel, M. / Gelau, T. / Groß, W. (2013): Continuity Planning in Supply Chain Networks: Degrees of Freedom and Application in the Risk Management Process, Int. Conf. on Supply Chain and Logistics Engineering, Madrid, 2013. (Artikel angenommen, Konferenz im März 2013)</p>
+
 </div>
+
+
+
       </div>
     </div>
     </div>

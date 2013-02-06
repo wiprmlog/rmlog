@@ -1,5 +1,8 @@
 Rmlog::Application.routes.draw do
 
+
+
+
      match "static_pages/projektziele" => "static_pages#projektziele", :via => :get
   
      match "static_pages/projektbeschreibung" => "static_pages#projektbeschreibung", :via => :get
@@ -25,6 +28,7 @@ Rmlog::Application.routes.draw do
     match "/static_pages/impressum" => "static_pages#impressum", :via => :get
   
   root :to => 'static_pages#start'
+
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
