@@ -34,13 +34,12 @@
 
 <BR>
 
-
-<p>Schröder, S. / Zilske, M. / Liedtke, G. / Nagel, K. (2011): Der Transport-Service-Provider in einem Multiagentenmodell, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.</p>
+<strong>2011:</strong>
 
 <BR>
 
 <p>Liedtke, G. / Friedrich H. / Babani J. (2011): Identifikation von Tourtypen in Fahrzeugtagebüchern, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.
-Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "pdf-link", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
+Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "Download PDF", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
 
 <BR>
 
@@ -48,21 +47,21 @@ Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development:
 
 <BR>
 
-<p>Liedtke, G. / Friedrich, H. (2012): Generation of logistics networks in freight transportation models. In: Transportation, p.1-17, Springer 2012, (<%=link_to "pdf-link", "/downloads/liedtke_friedrich_2012-generation_of_logistics_networks_in_freight_transportation.pdf/#{@bl_file}" %>)</p>
-
-
-<BR>
-
-<p>Scholz, A.B. / Zhang, L. / Gizzi, F. / Jäkel, K. (2012): Risk management in the European air freight system - An institutional economic approach, Aviation Transport Research Society World Conference, July 2012, Tainan (Taiwan), (<%=link_to "pdf-link", "/downloads/scholz_zhang_gizzi_jaekel_2012-risk_management_in_the_european_air freight_system.pdf/#{@bl_file}" %>)</p>
+<p>Schröder, S. / Zilske, M. / Liedtke, G. / Nagel, K. (2011): Der Transport-Service-Provider in einem Multiagentenmodell, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.</p>
 
 <BR>
 
-
-<p>Beckers, T. / Gizzi, F. / Jäkel, K. (2012): Ein Untersuchungsansatz für Systemgüter – Einordnung, Darstellung, Vorgehen bei der Anwendung, WIP-Working Paper 2012-01, (<%=link_to "pdf-link", "/downloads/beckers_gizzi_jaekel_2012-untersuchungsansatz_systemgueter.pdf/#{@bl_file}" %>)</p>
+<strong>2012:</strong>
 
 <BR>
 
-<p>Brock, M. / Zhang L. / Hayden, C. / Matteis T. / Gross, W. (2012): A Comparison of Regular and Disrupted Operations for Route Planning in Freight Transportation, Proc. Int. Disaster and Risk Conference, Davos, 2012, pp. 94-98., <a href="https://www.conftool.pro/idrc2012/index.php?page=browseSessions&form_session=55</p">link</a>
+<p>Beckers, T. / Gizzi, F. / Jäkel, K. (2012): Ein Untersuchungsansatz für Systemgüter – Einordnung, Darstellung, Vorgehen bei der Anwendung, WIP-Working Paper 2012-01, (<%=link_to "Download PDF", "/downloads/beckers_gizzi_jaekel_2012-untersuchungsansatz_systemgueter.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Brock, M. / Zhang L. / Hayden, C. / Matteis T. / Gross, W. (2012): A Comparison of Regular and Disrupted Operations for Route Planning in Freight Transportation, Proc. Int. Disaster and Risk Conference, Davos, 2012, pp. 94-98., <a href="https://www.conftool.pro/idrc2012/index.php?page=browseSessions&form_session=55</p">Link</a>
+
+<BR>
 
 <BR>
 
@@ -70,7 +69,20 @@ Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development:
 
 <BR>
 
-<p>Zhang, L. / Schröder, S. / Brock, M. / Hayden, C. (2012): Assessment of the interaction between congestion and carriers’ route decision: a case study, Proc. 5th Int. Symposium on Transportation Network Reliability, Hong Kong, 2012, (<%=link_to "pdf-link", "/downloads/zhang_schroeder_brock_hayden_2012-assessment_of_the_interaction_between_congestion_and_carriers_route_decision.pdf/#{@bl_file}" %>)</p>
+<p>Liedtke, G. / Friedrich, H. (2012): Generation of logistics networks in freight transportation models. In: Transportation, p.1-17, Springer 2012, (<%=link_to "Download PDF", "/downloads/liedtke_friedrich_2012-generation_of_logistics_networks_in_freight_transportation.pdf/#{@bl_file}" %>)</p>
+
+
+<BR>
+
+<p>Scholz, A.B. / Zhang, L. / Gizzi, F. / Jäkel, K. (2012): Risk management in the European air freight system - An institutional economic approach, Aviation Transport Research Society World Conference, July 2012, Tainan (Taiwan), (<%=link_to "Download PDF", "/downloads/scholz_zhang_gizzi_jaekel_2012-risk_management_in_the_european_air freight_system.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Zhang, L. / Schröder, S. / Brock, M. / Hayden, C. (2012): Assessment of the interaction between congestion and carriers’ route decision: a case study, Proc. 5th Int. Symposium on Transportation Network Reliability, Hong Kong, 2012, (<%=link_to "Download PDF", "/downloads/zhang_schroeder_brock_hayden_2012-assessment_of_the_interaction_between_congestion_and_carriers_route_decision.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<strong>2013:</strong>
 
 <BR>
 
