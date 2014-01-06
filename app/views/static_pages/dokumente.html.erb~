@@ -34,20 +34,15 @@
 
 <BR>
 
-<strong>2011:</strong>
+<strong>2013:</strong>
 
 <BR>
 
-<p>Liedtke, G. / Friedrich H. / Babani J. (2011): Identifikation von Tourtypen in Fahrzeugtagebüchern, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.
-Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "Download PDF", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
+<p>Bötel, M. / Gelau, T. / Groß, W. (2013): Continuity Planning in Supply Chain Networks: Degrees of Freedom and Application in the Risk Management Process, Int. Conf. on Supply Chain and Logistics Engineering, Madrid, 2013. (Artikel angenommen, Konferenz im März 2013)</p>
 
 <BR>
 
-<p>Scholz, A.B. / Mandel, B. / Schaffer, A. (2011): Implications of short-term Cargo Collapses on European Airports, Der öffentliche Sektor - the public sector, 37, 3/4, pp 39-51.</p>
-
-<BR>
-
-<p>Schröder, S. / Zilske, M. / Liedtke, G. / Nagel, K. (2011): Der Transport-Service-Provider in einem Multiagentenmodell, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.</p>
+<p>RMLOG (2013): Risikomanagementstrategien in Logistik- und Infrastrukturnetzen aus unternehmerischer und gesamtwirtschaftlicher Sicht – Zusammenfassung der Ergebnisse; gemeinsamer Endbericht der Projektpartner (<%=link_to "Download PDF", "/downloads/projekt_rm-log_2013-zusammenfassung_der_ergebnisse.pdf/#{@bl_file}" %>)</p>
 
 <BR>
 
@@ -60,8 +55,6 @@ Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development:
 <BR>
 
 <p>Brock, M. / Zhang L. / Hayden, C. / Matteis T. / Gross, W. (2012): A Comparison of Regular and Disrupted Operations for Route Planning in Freight Transportation, Proc. Int. Disaster and Risk Conference, Davos, 2012, pp. 94-98., <a href="https://www.conftool.pro/idrc2012/index.php?page=browseSessions&form_session=55</p">Link</a>
-
-<BR>
 
 <BR>
 
@@ -82,11 +75,21 @@ Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development:
 
 <BR>
 
-<strong>2013:</strong>
+<strong>2011:</strong>
 
 <BR>
 
-<p>Bötel, M. / Gelau, T. / Groß, W. (2013): Continuity Planning in Supply Chain Networks: Degrees of Freedom and Application in the Risk Management Process, Int. Conf. on Supply Chain and Logistics Engineering, Madrid, 2013. (Artikel angenommen, Konferenz im März 2013)</p>
+<p>Liedtke, G. / Friedrich H. / Babani J. (2011): Identifikation von Tourtypen in Fahrzeugtagebüchern, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.
+Zhang, L. / Matteis, T. (2011), Congestion Costs and Infrastructure Development: A Simulation Case Study, Infraday, Berlin, (<%= link_to "Download PDF", "/downloads/zhang_matteis_2011-congestion_costs_and_infrastructure_development.pdf/#{@bl_file}" %>)</p>
+
+<BR>
+
+<p>Scholz, A.B. / Mandel, B. / Schaffer, A. (2011): Implications of short-term Cargo Collapses on European Airports, Der öffentliche Sektor - the public sector, 37, 3/4, pp 39-51.</p>
+
+<BR>
+
+<p>Schröder, S. / Zilske, M. / Liedtke, G. / Nagel, K. (2011): Der Transport-Service-Provider in einem Multiagentenmodell, In: Wirtschaftsverkehr 2011, Modelle – Strukturen – Umsetzung, Dortmund, Verlag Praxiswissen, ISBN-13: 978-3-86975-041-5.</p>
+
 
 </div>
 
