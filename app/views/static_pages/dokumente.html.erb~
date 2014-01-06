@@ -42,7 +42,7 @@
 
 <BR>
 
-<p>RMLOG (2013): Risikomanagementstrategien in Logistik- und Infrastrukturnetzen aus unternehmerischer und gesamtwirtschaftlicher Sicht – Zusammenfassung der Ergebnisse; gemeinsamer Endbericht der Projektpartner (<%=link_to "Download PDF", "/downloads/projekt_rm-log_2013-zusammenfassung_der_ergebnisse.pdf/#{@bl_file}" %>)</p>
+<p>Risikomanagementstrategien in Logistik- und Infrastrukturnetzen aus unternehmerischer und gesamtwirtschaftlicher Sicht – Zusammenfassung der Ergebnisse; gemeinsamer Endbericht der Projektpartner (<%=link_to "Download PDF", "/downloads/projekt_rm-log_2013-zusammenfassung_der_ergebnisse.pdf/#{@bl_file}" %>)</p>
 
 <BR>
 
